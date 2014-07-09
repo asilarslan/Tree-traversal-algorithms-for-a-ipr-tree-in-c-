@@ -1,0 +1,6 @@
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\bin\Debug\IPRTree.exe.config
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\bin\Debug\IPRTree.exe
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\bin\Debug\IPRTree.pdb
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\obj\Debug\IPRTree.csprojResolveAssemblyReference.cache
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\obj\Debug\IPRTree.exe
+C:\Users\AsusPc\Desktop\IPRTree\IPRTree\obj\Debug\IPRTree.pdb
