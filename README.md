@@ -6,6 +6,6 @@ Tree traversal algorithms for a ipr tree in c#
 2 In-order
 3 Post-order
 
-References
+[1]
 https://cs.uwaterloo.ca/research/tr/1982/CS-82-07.pdf
-http://yangliucsharp.blogspot.com/2013/02/avl-tree-principle-and-c-implementation.html
+[2]http://yangliucsharp.blogspot.com/2013/02/avl-tree-principle-and-c-implementation.html
